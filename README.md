@@ -1,4 +1,4 @@
-<img width="1919" height="854" alt="Screenshot 2026-03-26 140044" src="https://github.com/user-attachments/assets/1ca23961-ccb6-4a60-a94d-baed1840c372" />🌍 Destination Paradise - Travel Website
+<img width="1919" height="854" alt="Screenshot 2026-03-26 140044" src="https://github.com/user-attachments/assets/1ca23961-ccb6-4a60-a94d-baed1840c372" />🌍 Destination Paradise - Travel Website (practiceProject-1)
 
 A modern and responsive travel website built using HTML, CSS, and JavaScript.
 This project focuses on creating a clean user interface and showcasing travel destinations with a responsive layout.
